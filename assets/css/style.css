@@ -22,7 +22,9 @@ body{
 header{
     background-color: beige;
 }
-
+h1 {
+    font-family: 'Oswald', sans-serif;
+}
 /* main */
 main{
     background-color: gray;
